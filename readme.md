@@ -27,8 +27,18 @@
 ![Giao diện chính](./ảnh/bai2.png)
 
 ### 2. Ảnh màn hình Chức năng thực thi / Kết quả
-![Thực thi chức năng](./ảnh/bai2kq.png)
+![Thực thi chức năng](./ảnh/bai2test.png)
+
+### Bai 3
+
+### 1. Ảnh màn hình Giao diện chính
+![Giao diện chính](./ảnh/bai3.png)
+
+### 2. Ảnh màn hình Chức năng thực thi / Kết quả
+![Thực thi chức năng - Thêm](./ảnh/bai3testthem.png)
+![Thực thi chức năng - Sửa](./ảnh/bai3testsua.png)
+![Thực thi chức năng - Tìm kiếm](./ảnh/bai3timkiem.png)
+![Thực thi chức năng - Xóa](./ảnh/bai3xoa.png)
 
 ### 3. Ảnh màn hình Kiểm tra lỗi (Validation)
-![Kiểm tra lỗi](./ảnh/bai2loi.png)
-
+![Kiểm tra lỗi](./ảnh/bai3loi.png)
